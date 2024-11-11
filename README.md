@@ -5,7 +5,7 @@ Information:
 
 The language you have to study is
 
-              Ballerina
+Ballerina
 
 Refer to my CLASS 20 slides and my in-class remarks.
 
